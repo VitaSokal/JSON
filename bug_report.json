@@ -1,9 +1,9 @@
 { 
  "Summary":"The button 'Sign In' is displaced after clicking on the page",
-  "Author":"Vita"
+  "Author":"Vita",
   "Project":"App",
   "Component":"login page",
   "Version":2.0,
   "Severity":"Minor",
-  "Priority":"Low",
+  "Priority":"Low"
 }
